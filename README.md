@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishant 
-- 👀 I’m intersted in - Data Cleansing, Data Visulization, Data Transform and Data Analysis.
+- 👀 I’m intersted in - Data Cleansing, Data Visualization, Data Transformation and Data Analysis.
 
 
 <!---
